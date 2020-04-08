@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1271.414 1838.658 46.328 463.042">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_84" data-name="Group 84" transform="translate(-1271 1839)">
+    <circle id="Ellipse_44" data-name="Ellipse 44" class="cls-1" cx="21.7" cy="21.7" r="21.7" transform="translate(1 314)"/>
+    <circle id="Ellipse_45" data-name="Ellipse 45" class="cls-1" cx="21.7" cy="21.7" r="21.7" transform="translate(1 418.3)"/>
+    <g id="Group_79" data-name="Group 79">
+      <line id="Line_72" data-name="Line 72" class="cls-1" y1="43.5" transform="translate(1 1)"/>
+      <line id="Line_73" data-name="Line 73" class="cls-1" x1="21.7" y1="43.5" transform="translate(1 1)"/>
+      <line id="Line_74" data-name="Line 74" class="cls-1" y1="43.5" x2="21.8" transform="translate(22.7 1)"/>
+      <line id="Line_75" data-name="Line 75" class="cls-1" y1="43.5" transform="translate(44.5 1)"/>
+    </g>
+    <g id="Group_80" data-name="Group 80">
+      <line id="Line_76" data-name="Line 76" class="cls-1" x2="43.5" transform="translate(1 53.2)"/>
+      <line id="Line_77" data-name="Line 77" class="cls-1" x2="43.5" transform="translate(1 74.9)"/>
+      <line id="Line_78" data-name="Line 78" class="cls-1" x2="43.5" transform="translate(1 96.6)"/>
+    </g>
+    <path id="Path_171" data-name="Path 171" class="cls-1" d="M22.7,105.3A21.7,21.7,0,1,0,44.4,127H22.7"/>
+    <path id="Path_172" data-name="Path 172" class="cls-1" d="M1,200.8l21.7-43.3L44.5,201"/>
+    <g id="Group_81" data-name="Group 81">
+      <path id="Path_173" data-name="Path 173" class="cls-1" d="M33.6,209.6a10.9,10.9,0,1,1,0,21.8"/>
+      <path id="Path_174" data-name="Path 174" class="cls-1" d="M1,253.1V231.4H33.6"/>
+      <line id="Line_79" data-name="Line 79" class="cls-1" x2="32.6" transform="translate(1 209.6)"/>
+    </g>
+    <g id="Group_82" data-name="Group 82">
+      <line id="Line_80" data-name="Line 80" class="cls-1" y2="43.5" transform="translate(44.5 261.8)"/>
+      <line id="Line_81" data-name="Line 81" class="cls-1" x1="43.5" transform="translate(1 283.5)"/>
+      <line id="Line_82" data-name="Line 82" class="cls-1" y2="43.5" transform="translate(1 261.8)"/>
+    </g>
+    <g id="Group_83" data-name="Group 83">
+      <line id="Line_83" data-name="Line 83" class="cls-1" y2="43.5" transform="translate(44.5 366.1)"/>
+      <line id="Line_84" data-name="Line 84" class="cls-1" x1="43.5" y1="43.5" transform="translate(1 366.1)"/>
+      <line id="Line_85" data-name="Line 85" class="cls-1" y2="43.5" transform="translate(1 366.1)"/>
+    </g>
+  </g>
+</svg>
