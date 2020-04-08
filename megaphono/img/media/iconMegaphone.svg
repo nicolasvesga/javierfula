@@ -1,0 +1,51 @@
+<svg id="Group_103" data-name="Group 103" xmlns="http://www.w3.org/2000/svg" viewBox="1035 511 164.202 164.202">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ff40;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-1" width="164.202" height="164.202" transform="translate(1035 511)"/>
+  <g id="Group_66" data-name="Group 66" transform="translate(1059 535)">
+    <circle id="Ellipse_39" data-name="Ellipse 39" class="cls-2" cx="56.7" cy="56.7" r="56.7" transform="translate(1 1)"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" class="cls-2" cx="56.7" cy="56.7" r="56.7" transform="translate(1 1)"/>
+    <g id="Group_61" data-name="Group 61">
+      <line id="Line_44" data-name="Line 44" class="cls-2" y1="113.4" transform="translate(1 1)"/>
+      <line id="Line_45" data-name="Line 45" class="cls-2" x1="56.7" y1="113.4" transform="translate(1 1)"/>
+      <line id="Line_46" data-name="Line 46" class="cls-2" y1="113.4" x2="56.7" transform="translate(57.7 1)"/>
+      <line id="Line_47" data-name="Line 47" class="cls-2" y1="113.4" transform="translate(114.4 1)"/>
+    </g>
+    <g id="Group_62" data-name="Group 62">
+      <line id="Line_48" data-name="Line 48" class="cls-2" x2="113.4" transform="translate(1 1)"/>
+      <line id="Line_49" data-name="Line 49" class="cls-2" x2="113.4" transform="translate(1 57.7)"/>
+      <line id="Line_50" data-name="Line 50" class="cls-2" x2="113.4" transform="translate(1 114.4)"/>
+    </g>
+    <path id="Path_124" data-name="Path 124" class="cls-2" d="M57.7,1a56.7,56.7,0,1,0,56.7,56.7H57.7"/>
+    <path id="Path_125" data-name="Path 125" class="cls-2" d="M1,114.1,57.7,1l56.7,113.4"/>
+    <g id="Group_63" data-name="Group 63">
+      <path id="Path_126" data-name="Path 126" class="cls-2" d="M86,1a28.35,28.35,0,0,1,0,56.7"/>
+      <path id="Path_127" data-name="Path 127" class="cls-2" d="M1,114.4V57.7H86"/>
+      <line id="Line_51" data-name="Line 51" class="cls-2" x2="85" transform="translate(1 1)"/>
+    </g>
+    <g id="Group_64" data-name="Group 64">
+      <line id="Line_52" data-name="Line 52" class="cls-2" y2="113.4" transform="translate(114.4 1)"/>
+      <line id="Line_53" data-name="Line 53" class="cls-2" x1="113.4" transform="translate(1 57.7)"/>
+      <line id="Line_54" data-name="Line 54" class="cls-2" y2="113.4" transform="translate(1 1)"/>
+    </g>
+    <g id="Group_65" data-name="Group 65">
+      <line id="Line_55" data-name="Line 55" class="cls-2" y2="113.4" transform="translate(114.4 1)"/>
+      <line id="Line_56" data-name="Line 56" class="cls-2" x1="113.4" y1="113.4" transform="translate(1 1)"/>
+      <line id="Line_57" data-name="Line 57" class="cls-2" y2="113.4" transform="translate(1 1)"/>
+    </g>
+  </g>
+</svg>
