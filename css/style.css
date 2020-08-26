@@ -888,11 +888,11 @@ nav.ashade-nav ul li {
 }
 nav.ashade-nav ul li a {
     transition: color 0.3s;
-    color: rgba(0,0,0,0.5);
+    color: rgba(0,0,0,0.7);
     font-size: 12px;
     line-height: 29px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     text-transform: uppercase;
     display: block;
     letter-spacing: 0.6px;
