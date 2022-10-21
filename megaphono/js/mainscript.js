@@ -126,7 +126,6 @@ function startfullPage() {
 			'intro',
 			'bio',
             'media',
-			'events',
 			'gallery',
             'merch',
 			'contact'
